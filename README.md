@@ -10,7 +10,7 @@ This project is a **machine learning-powered web application** built using **Str
 
 ## 🚀 Demo
 
-![App Screenshot](https://wallpapercave.com/wp/wp13763230.jpg)
+![App Screenshot](https://github.com/rituparna25/The-Bangalore-Home-Price-Wizard/blob/main/Screenshot%202025-07-01%20172532.png?raw=true)
 
 Live demo (host yourself or deploy on Streamlit Cloud)
 
