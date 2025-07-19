@@ -1,4 +1,4 @@
-# The Bangalore Home Price Wizard
+# House_Price_Prediction
 
 This project is a **machine learning-powered web application** built using **Streamlit** to predict the price of a house in Bangalore based on:
 - 📏 Square footage
